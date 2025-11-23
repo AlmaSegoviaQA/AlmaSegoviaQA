@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Alma Segovia  
+### QA Engineer en formación | Manual & API Testing | Postman · JSON · Jira
 
-<!--
-**AlmaSegoviaQA/AlmaSegoviaQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí  
+Profesional en transición al área de QA, con experiencia sólida en análisis, documentación, procesos y comunicación. Actualmente me estoy formando en pruebas manuales y API Testing en TripleTen.
 
-Here are some ideas to get you started:
+## 🧪 Tecnologías y herramientas  
+- Postman  
+- JSON  
+- HTTP Status Codes  
+- Jira  
+- Git & GitHub  
+- Google Sheets  
+- Scrum / Agile  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyecto destacado  
+🔗 **API Testing – Validación de Endpoints REST (Sprint 4)**  
+https://github.com/AlmaSegoviaQA/api-testing-proyecto-funcional
+
+## 🎯 Objetivo  
+Integrarme a un equipo de QA donde pueda aportar valor asegurando calidad, claridad y mejora continua en productos digitales.
